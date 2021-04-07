@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # coded by jallySB
-# reedit & translate to indonesia by muslim Ahmed
+# reedit & translate to indonesia by Raden
 import os
 import re 
 import time
